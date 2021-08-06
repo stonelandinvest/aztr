@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
+"GD272RBTTM5VC5SH54PFGYOCMO5JZMHHYRLOY3GUECGXZ3YVODW33UCT"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
+ORG_NAME="STAR"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
+ORG_DESCRIPTION="A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/SN5pjj1/luke.jpg"
+ORG_LOGO="https://i.ibb.co/mFXGNvH/star.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="LUKE"
-issuer="GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
+code="STAR"
+issuer="GD272RBTTM5VC5SH54PFGYOCMO5JZMHHYRLOY3GUECGXZ3YVODW33UCT"
 anchor_asset="false"
-name="Luke Coin"
-desc="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
-image="https://i.ibb.co/SN5pjj1/luke.jpg"
-fixed_number=1000000000
-max_number=1000000000
+name="Star Coin"
+desc="A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun."
+image="https://i.ibb.co/mFXGNvH/star.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#LukeCoin was issued using the open and inclusive Stellar blockchain network.
+#Star Coin was issued using the open and inclusive Stellar blockchain network.
