@@ -1,27 +1,49 @@
+VERSION="2.2.1"
+ 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-
+ 
+# Federation service provided by StellarID.io
+FEDERATION_SERVER="https://stellarid.io/federation/"
+ 
+ 
 ACCOUNTS=[
-"GD272RBTTM5VC5SH54PFGYOCMO5JZMHHYRLOY3GUECGXZ3YVODW33UCT"
+"GCEIFXVX3HUDIMN4NECKTDZGEKGB4YPZYP4FHEGRWHNJ6ACFM4LJLDCF",
+"GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD"
+ 
 ]
-VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="STAR"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/mFXGNvH/star.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
-
+ORG_NAME="StoneLandInvest"
+ORG_TWITTER="@LandInvest"
+ORG_LOGO="https://i.ibb.co/w7xXW6J/photo-2021-08-04-20-06-36.jpg"
+ORG_OFFICIAL_EMAIL="stonelandinvest@gmail.com"
+ 
 
 [[CURRENCIES]]
-code="STAR"
-issuer="GD272RBTTM5VC5SH54PFGYOCMO5JZMHHYRLOY3GUECGXZ3YVODW33UCT"
+code="AZgem"
+issuer="GCEIFXVX3HUDIMN4NECKTDZGEKGB4YPZYP4FHEGRWHNJ6ACFM4LJLDCF"
 anchor_asset="false"
-name="Star Coin"
-desc="A star is an astronomical object consisting of a luminous spheroid of plasma held together by its own gravity. The nearest star to Earth is the Sun."
-image="https://i.ibb.co/mFXGNvH/star.png"
-fixed_number=10000000
-max_number=10000000
+name="AZgem"
+desc="Amazonite, also known as Amazonstone, is a green tectosilicate mineral, a variety of the potassium feldspar called microcline."
+conditions="There will only ever be 1.000.000 AZgems."
+image="https://i.ibb.co/YD9rPzH/photo-2021-08-05-20-26-12.jpg"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Star Coin was issued using the open and inclusive Stellar blockchain network.
+ 
+
+[[CURRENCIES]]
+code="TRgem"
+issuer="GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD"
+anchor_asset="false"
+name="TRgem"
+desc="Tourmaline is one of the most expensive stones that can fetch $10,000 per carat and upwards depending on size and colour saturation."
+conditions="There will only ever be 100.000 TRgems."
+image="https://i.ibb.co/g3mqHcZ/photo-2021-08-05-20-26-09.jpg"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+
+
+
+
