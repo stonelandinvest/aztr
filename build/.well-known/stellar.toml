@@ -9,7 +9,8 @@ FEDERATION_SERVER="https://stellarid.io/federation/"
 ACCOUNTS=[
 "GCEIFXVX3HUDIMN4NECKTDZGEKGB4YPZYP4FHEGRWHNJ6ACFM4LJLDCF",
 "GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD",
-"GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI"
+"GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI",
+"GBZRVLYXOEDQG6R7COIQZZG2YOLQDYBAJRELTSJUL5CP5HS6UPXOWRSZ"
  
 ]
 
@@ -59,6 +60,19 @@ fixed_number=1000000
 max_number=1000000
 is_unlimited=false
 #CHgem was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="MOgem"
+issuer="GBZRVLYXOEDQG6R7COIQZZG2YOLQDYBAJRELTSJUL5CP5HS6UPXOWRSZ"
+anchor_asset="false"
+name="MOgem"
+desc="Morion is a power stone that is believed to have a strong demonic power as a jet black amulet. But as well, it is the perfect amulet protection that protects the owner from various negative energy and becomes a strong shield, the price per karat varies between 15-50$."
+conditions="There will only ever be 100.000 TRgems."
+image="https://i.ibb.co/7S1bJb7/photo1628547543.jpg"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+#MOgem was issued using the open and inclusive Stellar blockchain network.
 
 
 
