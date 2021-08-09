@@ -8,7 +8,8 @@ FEDERATION_SERVER="https://stellarid.io/federation/"
  
 ACCOUNTS=[
 "GCEIFXVX3HUDIMN4NECKTDZGEKGB4YPZYP4FHEGRWHNJ6ACFM4LJLDCF",
-"GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD"
+"GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD",
+"GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI"
  
 ]
 
@@ -45,6 +46,19 @@ fixed_number=100000
 max_number=100000
 is_unlimited=false
 #TRgem was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="CHgem"
+issuer="GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI"
+anchor_asset="false"
+name="CHgem"
+desc="If you look for a lovely pattern, pleasing colours, a good polish, and an appealing shape, you can’t go wrong with our Charoite stone, the price per karat varies between 5-20$."
+conditions="There will only ever be 1.000.000 CHgems."
+image="https://i.ibb.co/Bg3qdZv/f81eaefd-3efd-4439-ab83-29901c27cf6b.jpg"
+fixed_number=1000000
+max_number=1000000
+is_unlimited=false
+#CHgem was issued using the open and inclusive Stellar blockchain network.
 
 
 
