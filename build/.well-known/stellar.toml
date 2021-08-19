@@ -10,7 +10,8 @@ ACCOUNTS=[
 "GCEIFXVX3HUDIMN4NECKTDZGEKGB4YPZYP4FHEGRWHNJ6ACFM4LJLDCF",
 "GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD",
 "GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI",
-"GBZRVLYXOEDQG6R7COIQZZG2YOLQDYBAJRELTSJUL5CP5HS6UPXOWRSZ"
+"GBZRVLYXOEDQG6R7COIQZZG2YOLQDYBAJRELTSJUL5CP5HS6UPXOWRSZ",
+"GC3MGRDLOHKDGTOF2CJZ3T6LJX5LMGLZWI2BRHJPVK4KYVYN4PGPRMNQ"
  
 ]
 
@@ -73,6 +74,21 @@ fixed_number=100000
 max_number=100000
 is_unlimited=false
 #MOgem was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="QZgem"
+issuer="GC3MGRDLOHKDGTOF2CJZ3T6LJX5LMGLZWI2BRHJPVK4KYVYN4PGPRMNQ"
+anchor_asset="false"
+name="QZgem"
+desc="Quartz is a versatile material, which lends itself to a wide range of styles, edge treatments, colors, and finishes. The newest or most complicated to produce can come at a premium price."
+conditions="There will only ever be 100.00 QZgems."
+image="https://i.ibb.co/pnHkQ90/photo1629377962.jpg"
+fixed_number=10000
+max_number=10000
+is_unlimited=false
+#QZgem was issued using the open and inclusive Stellar blockchain network.
+
+
 
 
 
