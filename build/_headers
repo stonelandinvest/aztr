@@ -9,7 +9,7 @@
   # headers for that path:
   X-Frame-Options: SAMEORIGIN
   /*
-  Access-Control-Allow-Origin: 
+  Access-Control-Allow-Origin: *
 
   /.well-known/stellar.toml
   Content-type: text/plain"
