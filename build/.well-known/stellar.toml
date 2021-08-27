@@ -11,7 +11,8 @@ ACCOUNTS=[
 "GCYE6EHSDRYEJY7FFWWYQCAF4YDHFBRHXRL5NGHS6L47RF3FGFQ7MMXD",
 "GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI",
 "GBZRVLYXOEDQG6R7COIQZZG2YOLQDYBAJRELTSJUL5CP5HS6UPXOWRSZ",
-"GC3MGRDLOHKDGTOF2CJZ3T6LJX5LMGLZWI2BRHJPVK4KYVYN4PGPRMNQ"
+"GC3MGRDLOHKDGTOF2CJZ3T6LJX5LMGLZWI2BRHJPVK4KYVYN4PGPRMNQ",
+"GDZFPJDI2GQQHIJW6WVOLSFZWOGXMBB22GI5T6VU6C2YNTYBKO3PV3Z6"
  
 ]
 
@@ -87,6 +88,19 @@ fixed_number=10000
 max_number=10000
 is_unlimited=false
 #QZgem was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="RBgem"
+issuer="GDZFPJDI2GQQHIJW6WVOLSFZWOGXMBB22GI5T6VU6C2YNTYBKO3PV3Z6"
+anchor_asset="false"
+name="RBgem"
+desc="One of the most popular traditional jewellery stones, ruby is exceptionally durable and in the category of the most expensive gemstones. A ruby is rarer than a diamond by far."
+conditions="There will only ever be 100.000 RBgems."
+image="https://i.ibb.co/DCypKzW/photo1630051964.jpg"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+#RBgem was issued using the open and inclusive Stellar blockchain network.
 
 
 
