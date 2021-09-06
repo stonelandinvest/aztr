@@ -12,7 +12,8 @@ ACCOUNTS=[
 "GC4KD7S72EWHWIFWQAPSFW7IVP33KEBGLPT2D5MWR3CS2NVG5U7ZXKBI",
 "GBZRVLYXOEDQG6R7COIQZZG2YOLQDYBAJRELTSJUL5CP5HS6UPXOWRSZ",
 "GC3MGRDLOHKDGTOF2CJZ3T6LJX5LMGLZWI2BRHJPVK4KYVYN4PGPRMNQ",
-"GDZFPJDI2GQQHIJW6WVOLSFZWOGXMBB22GI5T6VU6C2YNTYBKO3PV3Z6"
+"GDZFPJDI2GQQHIJW6WVOLSFZWOGXMBB22GI5T6VU6C2YNTYBKO3PV3Z6",
+"GDMXKDXITEUD32Y37VOSPREJMC4UQIOU4NWLQ3K72N54DXSU2TK6WYOP"
  
 ]
 
@@ -101,6 +102,19 @@ fixed_number=100000
 max_number=100000
 is_unlimited=false
 #RBgem was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="EMgem"
+issuer="GDMXKDXITEUD32Y37VOSPREJMC4UQIOU4NWLQ3K72N54DXSU2TK6WYOP"
+anchor_asset="false"
+name="EMgem"
+desc="Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium Emeralds estimated value is  $100,000 a carat."
+conditions="There will only ever be 1.000.000 EMgems."
+image="https://i.ibb.co/ZhXjZDY/photo1630932139.jpg"
+fixed_number=1000000
+max_number=1000000
+is_unlimited=false
+#EMgem was issued using the open and inclusive Stellar blockchain network.
 
 
 
